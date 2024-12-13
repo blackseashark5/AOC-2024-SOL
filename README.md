@@ -78,7 +78,7 @@ Day 13
 
 Part 1: 29522
 
-Part 2: 
+Part 2: 101214869433312
 
 About Advent of Code
 
