@@ -6,9 +6,9 @@ Daily Results
 
 Day 1
 
-Part 1: 1,151,792
+Part 1: 1151792
 
-Part 2: 21,790,168
+Part 2: 21790168
 
 Day 2
 
@@ -18,61 +18,67 @@ Part 2: 626
 
 Day 3
 
-Part 1: 161,085,926
+Part 1: 161085926
 
-Part 2: 82,045,421
+Part 2: 82045421
 
 Day 4
 
-Part 1: 2,390
+Part 1: 2390
 
-Part 2: 1,809
+Part 2: 1809
 
 Day 5
 
-Part 1: 5,948
+Part 1: 5948
 
-Part 2: 3,062
+Part 2: 3062
 
 Day 6
 
-Part 1: 5,177
+Part 1: 5177
 
 Day 7
 
-Part 1: 945,512,582,195
+Part 1: 945512582195
 
-Part 2: 271,691,107,779,347
+Part 2: 271691107779347
 
 Day 8
 
 Part 1: 396
 
-Part 2: 1,200
+Part 2: 1200
 
 Day 9
 
-Part 1: 6,216,544,403,458
+Part 1: 6216544403458
 
-Part 2: 6,237,075,041,489
+Part 2: 6237075041489
 
 Day 10
 
 Part 1: 688
 
-Part 2: 1,459
+Part 2: 1459
 
 Day 11
 
-Part 1: 190,865
+Part 1: 190865
 
-Part 2: 225,404,711,855,335
+Part 2: 225404711855335
 
 Day 12
 
-Part 1: 1,319,878
+Part 1: 1319878
 
-Part 2: 784,982
+Part 2: 784982
+
+Day 1
+
+Part 1: 29522
+
+Part 2: 
 
 About Advent of Code
 
