@@ -80,6 +80,12 @@ Part 1: 29522
 
 Part 2: 101214869433312
 
+Day 14
+
+Part 1: 221616000
+
+Part 2: 1
+
 About Advent of Code
 
 Advent of Code is an annual coding event created by Eric Wastl. It consists of 25 programming challenges ("days") that test problem-solving, algorithmic thinking, and coding skills. Each day unlocks a two-part puzzle, where solving the first part unlocks the second.
