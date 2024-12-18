@@ -86,12 +86,6 @@ Part 1: 221616000
 
 Part 2: 1
 
-Day 14
-
-Part 1: 
-
-Part 2: 
-
 Day 15
 
 Part 1: 
@@ -112,7 +106,7 @@ Part 2:
 
 Day 18
 
-part1_total=232
+part1: 232
 part2: 44,64
 
 About Advent of Code
